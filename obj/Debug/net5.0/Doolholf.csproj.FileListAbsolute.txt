@@ -1,0 +1,16 @@
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\bin\Debug\net5.0\Doolholf.exe
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\bin\Debug\net5.0\Doolholf.deps.json
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\bin\Debug\net5.0\Doolholf.runtimeconfig.json
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\bin\Debug\net5.0\Doolholf.runtimeconfig.dev.json
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\bin\Debug\net5.0\Doolholf.dll
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\bin\Debug\net5.0\ref\Doolholf.dll
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\bin\Debug\net5.0\Doolholf.pdb
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\obj\Debug\net5.0\Doolholf.csprojAssemblyReference.cache
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\obj\Debug\net5.0\Doolholf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\obj\Debug\net5.0\Doolholf.AssemblyInfoInputs.cache
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\obj\Debug\net5.0\Doolholf.AssemblyInfo.cs
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\obj\Debug\net5.0\Doolholf.csproj.CoreCompileInputs.cache
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\obj\Debug\net5.0\Doolholf.dll
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\obj\Debug\net5.0\ref\Doolholf.dll
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\obj\Debug\net5.0\Doolholf.pdb
+D:\Users\chris\Linux\VisualStudio Projects\C#\Doolholf\obj\Debug\net5.0\Doolholf.genruntimeconfig.cache
